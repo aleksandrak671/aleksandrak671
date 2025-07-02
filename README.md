@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about programming and new technolog
 ---
 
 ## Projects: 
-- [EDA – University Students’ Mental Health (GitHub Repo)](https://github.com/aleksandrak671/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health-)  
+- [EDA – University Students’ Mental Health](https://github.com/aleksandrak671/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health-)  
   📊 *Exploratory Data Analysis on students' mental health survey.*  
   Includes data cleaning, visualization, answering research questions in R, and detailed documentation.
 -
