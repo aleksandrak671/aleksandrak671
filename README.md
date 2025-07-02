@@ -11,7 +11,3 @@ Welcome to my GitHub profile! I'm passionate about programming and new technolog
 
 - [Streamlit App – Fantasy and Science Fiction Books Analysis](https://github.com/aleksandrak671/Streamlit-App-Fantasy-and-Science-Fiction-Books-Analysis-of-Authors-and-Number-of-Editions)  
   *Streamlit web app with data analysis, processing, and visualization of fantasy and sci-fi books authors and editions.*  
-
--
--
--
