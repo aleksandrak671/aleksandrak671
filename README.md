@@ -11,3 +11,7 @@ Welcome to my GitHub profile! I'm passionate about programming and new technolog
 
 - [Streamlit App – Fantasy and Science Fiction Books Analysis](https://github.com/aleksandrak671/Streamlit-App-Fantasy-and-Science-Fiction-Books-Analysis-of-Authors-and-Number-of-Editions)  
   *Streamlit web app with data analysis, processing, and visualization of fantasy and sci-fi books authors and editions.*  
+
+- [R Shiny App – Plastic Waste Analysis](https://github.com/aleksandrak671/R-Shiny)  
+  *Interactive R Shiny web application for exploring global plastic waste data.*  
+  Includes user interface, server logic, CSV data, and live deployment link for interactive analysis.
