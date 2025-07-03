@@ -12,12 +12,12 @@ Welcome to my GitHub profile! I'm passionate about programming and new technolog
 
 - [Streamlit App – Fantasy and Science Fiction Books Analysis](https://github.com/aleksandrak671/Streamlit-App-Fantasy-and-Science-Fiction-Books-Analysis-of-Authors-and-Number-of-Editions)  
   *Streamlit web app with data analysis, processing, and visualization of fantasy and sci-fi books authors and editions.*  
-  _Created for the **Programowanie funkcyjne w języku Python 24/25** university course during **Informatics and Econometrics** studies at AGH University (4th semester)._
+  _Created for the **Functional Programming in Python 24/25** university course during **Informatics and Econometrics** studies at AGH University (4th semester)._
 
 - [R Shiny App – Plastic Waste Analysis](https://github.com/aleksandrak671/R-Shiny)  
   *Interactive R Shiny web application for exploring global plastic waste data.*  
   Includes user interface, server logic, CSV data, and live deployment link for interactive analysis.  
-  _Created for the **Programowanie w R (N24)** university course during **Informatics and Econometrics** studies at AGH University (3rd semester)._
+  _Created for the **R Programming (N24)** university course during **Informatics and Econometrics** studies at AGH University (3rd semester)._
 
 - [Qt City Route App](https://github.com/aleksandrak671/Qt-City-Route-App)  
   *Desktop application built with Qt framework.*  
