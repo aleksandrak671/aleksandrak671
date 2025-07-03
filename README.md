@@ -15,3 +15,7 @@ Welcome to my GitHub profile! I'm passionate about programming and new technolog
 - [R Shiny App – Plastic Waste Analysis](https://github.com/aleksandrak671/R-Shiny)  
   *Interactive R Shiny web application for exploring global plastic waste data.*  
   Includes user interface, server logic, CSV data, and live deployment link for interactive analysis.
+
+- [Qt City Route App](https://github.com/aleksandrak671/Qt-City-Route-App)  
+  *Desktop application built with Qt framework.*  
+  Simulates finding and displaying city routes with an intuitive GUI.
