@@ -13,11 +13,7 @@ Welcome to my GitHub! I'm an ambitious student passionate about machine learning
   *Exploratory Data Analysis on students' mental health survey.*  
   Includes data cleaning, visualization, answering research questions in R, and detailed documentation.  
   _Created for the **Introduction to Data Analysis 2024/25** university course during **Informatics and Econometrics** studies at AGH University (3rd semester)._
-
-- [Streamlit App – Fantasy and Science Fiction Books Analysis](https://github.com/aleksandrak671/Streamlit-App-Fantasy-and-Science-Fiction-Books-Analysis-of-Authors-and-Number-of-Editions)  
-  *Streamlit web app with data analysis, processing, and visualization of fantasy and sci-fi books authors and editions.*  
-  _Created for the **Functional Programming in Python 24/25** university course during **Informatics and Econometrics** studies at AGH University (4th semester)._
-
+  
 - [R Shiny App – Plastic Waste Analysis](https://github.com/aleksandrak671/R-Shiny)  
   *Interactive R Shiny web application for exploring global plastic waste data.*  
   Includes user interface, server logic, CSV data, and live deployment link for interactive analysis.  
