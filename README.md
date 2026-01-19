@@ -21,10 +21,7 @@ Welcome to my GitHub! I'm an ambitious student passionate about machine learning
 - [R Shiny App – Plastic Waste Analysis](https://github.com/aleksandrak671/R-Shiny)  
   *Interactive R Shiny web application for exploring global plastic waste data.*  
   Includes user interface, server logic, CSV data, and live deployment link for interactive analysis.  
-  _Created for the **R Programming (N24)** university course during **Informatics and Econometrics** studies at AGH University (3rd semester)._
-
-tive analysis.  
-  _Created for the **R Programming (N24)** university course during **Informatics and Econometrics** studies at AGH University (3rd semester)._
+  _Created for the **R Programming (N24)** university course during **Informatics and Econometrics** studies at AGH University (3rd semester).
 
 - [Quantitative Market Risk Analysis – WIG20](https://github.com/aleksandrak671/AGH-Project-Ilosciowe-miary-ryzyka-rynkowego-25-26)  
   *Comprehensive market risk analysis of the WIG20 index using Value at Risk (VaR) and Expected Shortfall (ES).* Includes statistical analysis of return distributions (normality tests), implementation of **Simple and Weighted Historical Simulation** models (rolling window approach), and model validation via **Backtesting** (Kupiec test) in R.  
