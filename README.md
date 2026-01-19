@@ -1,5 +1,5 @@
 ## Hii, I'm Aleksandra!
-Welcome to my GitHub! I'm an ambitious student passionate about machine learning, data science and data engineering. I’m studying part-time at AGH University of Science and Technology in Kraków and Warsaw University of Technology. Here I share my projects and my journey in programming and new technologies.
+Welcome to my GitHub! I'm a student passionate about machine learning, data science and data engineering. I’m studying part-time at AGH University of Science and Technology in Kraków and Warsaw University of Technology. Here I share my projects and my journey in programming and new technologies.
 
 ---
 
