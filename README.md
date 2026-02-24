@@ -10,7 +10,7 @@ I’m studying part-time at [AGH University of Science and Technology](https://w
 
 ---
 
-### Projects: 
+### Selected Projects (the ones I'm moderately proud of):
 - [EDA – University Students’ Mental Health](https://github.com/aleksandrak671/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health-)  
   *Exploratory Data Analysis on students' mental health survey.*  
   Includes data cleaning, visualization, answering research questions in R, and detailed documentation.  
