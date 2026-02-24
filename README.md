@@ -1,5 +1,4 @@
-<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" alt="coding bear gif" />
-
+<img align="right" width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="coding gif" />
 
 ### Hii, I'm Aleksandra!
 
