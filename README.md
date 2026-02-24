@@ -24,3 +24,6 @@ I’m studying part-time at [AGH University of Science and Technology](https://w
   *Comprehensive market risk analysis of the WIG20 index using Value at Risk (VaR) and Expected Shortfall (ES).* Includes statistical analysis of return distributions (normality tests), implementation of **Simple and Weighted Historical Simulation** models (rolling window approach), and model validation via **Backtesting** (Kupiec test) in R.  
   _Created for the **Quantitative Market Risk Measures (2025/2026)** university course during **Informatics and Econometrics** studies at AGH University (5th semester)._
 
+- [Market Microstructure Analysis – Intraday Volatility](https://github.com/aleksandrak671/AGH-Project-1-Mikrostruktura-Rynkow-Finansowych)  
+  *Analysis of high-frequency tick-by-tick financial data from the Warsaw Stock Exchange.* Includes data cleaning, aggregation to 1-second and 5-minute intervals, statistical analysis of returns (skewness, kurtosis, autocorrelation), and intraday volatility deseasonalization using **Flexible Fourier Form (FFF)** and the **Engle-Sokalska (ARMA-GARCH)** models in R.  
+  _Created for the **Financial Markets Microstructure** university course during **Informatics and Econometrics** studies at AGH University._
