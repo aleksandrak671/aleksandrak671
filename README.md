@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m a computer science and engineering student, a junior data engineer, and a full-time reader (currently struggling to find time to read). Fixated on machine learning, data science, and data engineering.
 
-I’m studying part-time at [AGH University of Science and Technology](https://www.agh.edu.pl/en) and [Warsaw University of Technology]([https://www.pw.edu.pl/engpw](https://eng.pw.edu.pl/). Here I share my personal and academic projects, along with my journey in programming and learning new technologies.
+I’m studying part-time at [AGH University of Science and Technology](https://www.agh.edu.pl/en) and [Warsaw University of Technology](https://eng.pw.edu.pl/). Here I share my personal and academic projects, along with my journey in programming and learning new technologies.
 
 ---
 
