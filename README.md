@@ -1,4 +1,4 @@
-## Hii, I'm Aleksandra! <img src="https://github.com/user-attachments/assets/bf9a9f06-8e75-4ddd-b6f7-a049c90acfbe" width="110" style="filter: grayscale(100%); opacity: 0.85;" alt="gif" />
+## Hii, I'm Aleksandra! <img src="https://github.com/user-attachments/assets/bf9a9f06-8e75-4ddd-b6f7-a049c90acfbe" width="100" style="filter: grayscale(100%); opacity: 0.65;" alt="gif" />
 
 Welcome to my GitHub! I’m a computer science and engineering student, a junior data engineer, and a full-time reader (currently struggling to find time to read). Fixated on machine learning, data science, and data engineering.
 
