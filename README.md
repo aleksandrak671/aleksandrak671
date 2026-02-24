@@ -1,7 +1,7 @@
 <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" alt="coding bear gif" />
 
 
-## Hii, I'm Aleksandra!
+### Hii, I'm Aleksandra!
 
 Welcome to my GitHub! I’m a computer science and engineering student, a junior data engineer, and a full-time reader. Fixated on machine learning, data science, and data engineering.
 
@@ -11,7 +11,7 @@ I’m studying part-time at [AGH University of Science and Technology](https://w
 
 ---
 
-## Projects: 
+### Projects: 
 - [EDA – University Students’ Mental Health](https://github.com/aleksandrak671/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health-)  
   *Exploratory Data Analysis on students' mental health survey.*  
   Includes data cleaning, visualization, answering research questions in R, and detailed documentation.  
