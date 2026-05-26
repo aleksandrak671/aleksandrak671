@@ -11,11 +11,6 @@ I’m studying part-time at [AGH University of Science and Technology](https://w
 ---
 
 ### Selected projects (the ones I'm moderately proud of):
-- [EDA – University Students’ Mental Health](https://github.com/aleksandrak671/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health-)  
-  *Exploratory Data Analysis on students' mental health survey.*  
-  Includes data cleaning, visualization, answering research questions in R, and detailed documentation.  
-  _Created for the **Introduction to Data Analysis 2024/25** university course during **Informatics and Econometrics** studies at AGH University._
-  
 - [Statistical Data Analysis – MDS & PCA on World Countries](https://github.com/aleksandrak671/AGH-Projekt-2-Statystyczna-Analiza-Danych)  
   *Multivariate statistical analysis of country-level development indicators using Multidimensional Scaling (Classical MDS, Sammon mapping) and Principal Component Analysis (PCA).* Includes exploratory data analysis, data standardization, dimensionality reduction, and comparison of MDS and PCA results in R.  
   _Created for the **Statistical Data Analysis** university course during **Informatics and Econometrics** studies at AGH University._
