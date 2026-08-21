@@ -2,7 +2,7 @@
 
 ### Hii, I'm Aleksandra!
 
-Welcome to my GitHub! I’m a computer science and engineering student, a junior data engineer, and a full-time reader. Fixated on machine learning, data science, and data engineering.
+Welcome to my GitHub! I’m a computer science and engineering student, a junior data engineer, and a full-time reader. Fixated on machine learning and data engineering.
 
 I’m studying part-time at and [Warsaw University of Technology](https://eng.pw.edu.pl/) and graduated from [AGH University of Science and Technology](https://www.agh.edu.pl/en). Here I share my personal and academic projects, along with my journey in programming and learning new technologies.
 
